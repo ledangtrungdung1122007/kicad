@@ -1,0 +1,2 @@
+# kicad
+học kicad
